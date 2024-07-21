@@ -1,34 +1,50 @@
-# 💫 About Me:
-I'm a student studying a level 3 National Foundation Diploma in Information Technology<br>I am currently working on unit 4 - programming where I am making a score system for <br>a college using python, incorporating a custom GUI with customtkinter.
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=HI%20THERE!&fontSize=90&fontAlign=50&fontAlignY=30&desc=I%20am%20Akascape!&descAlign=50&descSize=30&animation=twinkling">
+</p>
 
+<p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&pause=1000&width=435&lines=Welcome+to+my+Github+Profile+Page!" alt="Typing SVG" /></a> </p>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/AustinATTS) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/austinatts) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/awgatts) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Austin_ATTS) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@austin_dragon) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/austinatts95) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@AustinATTS) 
+<h2 align="center">⚡ STATS ⚡</h2>
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Less](https://img.shields.io/badge/less-2B4C80?style=for-the-badge&logo=less&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe Fonts](https://img.shields.io/badge/Adobe%20Fonts-000B1D.svg?style=for-the-badge&logo=Adobe%20Fonts&logoColor=white) ![Adobe Dreamweaver](https://img.shields.io/badge/Adobe%20Dreamweaver-FF61F6.svg?style=for-the-badge&logo=Adobe%20Dreamweaver&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AustinATTS&theme=maroongold&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=AustinATTS&theme=maroongold&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AustinATTS&theme=maroongold&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=Akascape&show_icons=true&theme=github_dark&&hide_border=true"> 
+<img align="center" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=Akascape&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Akascape's github streak stats"> 
+<img align="center" width="800" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Akascape&theme=github_dark&show_icons=true&bg_color=0111111"> 
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=Akascape&theme=onedark&no-frame=False&row=1&&margin-w=20&no-bg=true"> 
+<img src="https://raw.githubusercontent.com/Akascape/Akascape/output/snek.svg">
+<img align="center" width="150" src="https://komarev.com/ghpvc/?username=Akascape&label=PROFILE+VIEWS&style=flat-square">
+</p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AustinATTS&theme=nord&no-frame=false&no-bg=true&margin-w=4)
+<br> <h2 align="center">⚙️ TECH STACK ⚙️ </h2>
+<br> <p align="center"> 
+[![Main OS](https://img.shields.io/badge/OS-Windows_11-informational?style=flat&logo=Microsoft&logoColor=blue&color=1bdce3)](https://www.microsoft.com/en-us/windows?wa=wsignin1.0)
+[![3D](https://img.shields.io/badge/VFX/3D-Blender-informational?style=flat&logo=blender&logoColor=orange&color=f86604)](https://www.blender.org/)
+[![Video Editing](https://img.shields.io/badge/Editing-Davinci_Resolve-informational?style=flat&logo=julia&color=c500ff)](https://www.blackmagicdesign.com/products/davinciresolve/)
+[![Photo Editing](https://img.shields.io/badge/Photo-Gimp-informational?style=flat&logo=gimp&color=2bbc8a)](https://www.gimp.org/)
+[![Music Production](https://img.shields.io/badge/Audio/Music-FL_Studio-informational?style=flat&logo=Audacity&logoColor=red&color=fc0100)](https://www.image-line.com/)
+[![Compositing](https://img.shields.io/badge/Compositing-Natron-informational?style=flat&logo=NGINX&color=3cf10e)](https://natrongithub.github.io/)
+[![IDLE](https://img.shields.io/badge/IDLE-VS_Code-informational?style=flat&logo=VisualStudioCode&logoColor=lightblue&color=blue)](https://code.visualstudio.com/)
+[![Recording](https://img.shields.io/badge/Streaming-OBS-informational?style=flat&logo=OBSStudio&color=0024ff)](https://obsproject.com/)
+</p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<div align="center">
+  <a href="https://github-readme-tech-stack.vercel.app">
+    <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=LANGUAGES&align=center&titleAlign=center&fontSize=20&lineHeight=10&lineCount=2&theme=ayu&width=450&bg=%25230B0E14&titleColor=%231c9eff&line1=lua%2Clua%2Cauto%3Bpython%2Cpython%2Cauto%3BC%2CC+Lang%2Cauto%3B&line2=OpenGL%2COpenGL%2Cffffff%3Bhtml%2Chtml%2Cauto%3B" alt="GitHub Readme Tech Stack" />
+  </a>
+</div>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=AustinATTS&limit=5&theme=nord&combine_all_yearly_contributions=true)
+<br> <h2 align="center"> 🌐 MY SOCIALS 🌐 </h2>
+<br> <p align="center">
+[<img src="https://img.shields.io/badge/-Website-informational?style=flat&logo=firefox&logoColor=black&color=green">](https://www.akascape.com) 
+[<img src="https://img.shields.io/badge/-Github-informational?style=flat&logo=github&logoColor=black&color=grey">](https://github.com/Akascape) 
+[<img src="https://img.shields.io/badge/-Reddit-informational?style=flat&logo=reddit&logoColor=black&color=orange">](https://www.reddit.com/user/Akascape)
+[<img src="https://img.shields.io/badge/-YouTube-informational?style=flat&logo=youtube&logoColor=black&color=red">](https://www.youtube.com/channel/UC7naboenYq9FAo80aPUkqSw) 
+[<img src="https://img.shields.io/badge/-Twitter-informational?style=flat&logo=twitter&logoColor=black&color=blue">](https://twitter.com/Akascape) 
+<br> <a href='https://ko-fi.com/O5O6P271V' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+</p>
 
-### 😂 Random Dev Meme
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=AustinATTS&icon=0&color=4)](https://visitcount.itsvg.in)
-
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/AustinATTS) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/AustinATTS) 
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=2"> 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=2"> 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=2"> 
+</p>
