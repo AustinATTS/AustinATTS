@@ -15,7 +15,7 @@ function fill(text, { filler, length } = {}) {
   return `\n${fill}${text}${fill}\n`;
 }
 
-console.log(`${fill(colors.cyan("𝓊𝓃𝒸𝑒𝓃𝓉𝑒𝓇"), { length: 11 })}`);
+console.log(`${fill(colors.cyan("AustinATTS"), { length: 11 })}`);
 for (const [key, value] of Object.entries({
   Website: "https://austinatts.co.uk/",
   Email: "admin@toastysoftware.co.uk",
