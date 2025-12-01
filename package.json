@@ -1,0 +1,24 @@
+{
+  "name": "AustinATTS",
+  "version": "0.1.0",
+  "description": "Founder & Technical Director at Toasty Software, Software Engineer at Lancaster University",
+  "repository": "AustinATTS/AustinATTS",
+  "files": [
+    "README.md",
+    "src/"
+  ],
+  "main": "./src/index.js",
+  "bin": {
+    "uncenter": "./src/index.js"
+  },
+  "scripts": {
+    "dev": "node src/index.js"
+  },
+  "author": "AustinATTS <admin@toastysoftware.co.uk>",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "picocolors": "^1.0.0"
+  },
+  "packageManager": "pnpm@8.15.1"
+}
