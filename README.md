@@ -4,6 +4,6 @@
 
 - Founder & Technical Director @ [Toasty Software](https://www.toastysoftware.co.uk)
 - First year Software Engineering student @ [Lancaster University](https://www.lancaster.ac.uk)
-- Offical partner for [Odoo](https://www.odoo.com) focusing on SMEs in the restaurant and hospitality industry.
+- Official partner for [Odoo](https://www.odoo.com) focusing on SMEs in the restaurant and hospitality industry.
 
 I'm currently working on a [KMP](https://kotlinlang.org/docs/multiplatform.html) Project for Application Routine Management that syncs across desktop and mobile devices.
