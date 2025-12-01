@@ -1,5 +1,5 @@
-[![Discord](https://img.shields.io/badge/discord-uncenter-5865F2.svg?style=flat-square&logo=discord&logoColor=white&labelColor=3C3744)](https://discord.com/users/395793927233470475)
-[![Email](https://img.shields.io/badge/email-hi%40uncenter.dev-EA4335.svg?style=flat-square&logo=minutemailer&logoColor=white&labelColor=3C3744)](mailto:admin@toastysoftware.co.uk)
+[![Discord](https://img.shields.io/badge/discord-austin_atts-5865F2.svg?style=flat-square&logo=discord&logoColor=white&labelColor=3C3744)](https://discord.com/users/395793927233470475)
+[![Email](https://img.shields.io/badge/email-admin%40toastysoftware.co.uk-EA4335.svg?style=flat-square&logo=minutemailer&logoColor=white&labelColor=3C3744)](mailto:admin@toastysoftware.co.uk)
 
 
 - Founder & Technical Director @ [Toasty Software](https://www.toastysoftware.co.uk)
