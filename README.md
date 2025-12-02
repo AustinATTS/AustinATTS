@@ -9,7 +9,7 @@
 I'm currently working on:
 
 - A [KMP](https://kotlinlang.org/docs/multiplatform.html) Project called [The Bread Bin](https://www.austinatts.co.uk/blog/projects-5/the-bread-bin-5) for Application Routine Management that syncs across desktop and mobile devices.
-- A c Project called [Split Loaf](https://github.com/AustinATTS/split_loaf) for Keyboard Rerouting to allow the mouse and keyboard to be used seperate from each other. 
+- A C Project called [Split Loaf](https://github.com/AustinATTS/split_loaf) for Keyboard Rerouting to allow the mouse and keyboard to be used seperate from each other. 
 
 My recent blog articles:
 
