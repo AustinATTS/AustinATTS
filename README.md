@@ -7,5 +7,6 @@
 - Official partner for [Odoo](https://www.odoo.com) focusing on SMEs in the restaurant and hospitality industry.
 
 I'm currently working on 
--A [KMP](https://kotlinlang.org/docs/multiplatform.html) Project called [The Bread Bin](https://www.austinatts.co.uk/blog/projects-5/the-bread-bin-5) for Application Routine Management that syncs across desktop and mobile devices.
--A c Project called [Split Loaf](https://github.com/AustinATTS/split-loaf) for Keyboard Rerouting to allow the mouse and keyboard to be used seperate from each other. 
+
+- A [KMP](https://kotlinlang.org/docs/multiplatform.html) Project called [The Bread Bin](https://www.austinatts.co.uk/blog/projects-5/the-bread-bin-5) for Application Routine Management that syncs across desktop and mobile devices.
+- A c Project called [Split Loaf](https://github.com/AustinATTS/split-loaf) for Keyboard Rerouting to allow the mouse and keyboard to be used seperate from each other. 
