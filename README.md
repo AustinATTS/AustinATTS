@@ -13,6 +13,8 @@ I'm currently working on:
 
 My recent blog articles:
 
+- [Split Loaf Update](https://www.austinatts.co.uk/blog/projects-5/split-loaf-update-13)
+
 - [Setting Your Favicon Across All Odoo Apps](https://www.austinatts.co.uk/blog/odoo-customisations-7/setting-your-favicon-across-all-odoo-apps-9)
 - [Split Loaf Introduction](https://www.austinatts.co.uk/blog/projects-5/split-loaf-introduction-12)
 - [How To Use Small Bit Of Toast On Windows Without WSL](https://www.austinatts.co.uk/blog/projects-5/how-to-use-small-bit-of-toast-on-windows-without-wsl-11)
