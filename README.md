@@ -8,8 +8,8 @@
 
 I'm currently working on:
 
-- A CPP Project called [The Bread Bin](https://www.github.com/the-bread-bin) for Application Routine Management on linux.
-- A CPP Project called [Split Loaf](https://github.com/AustinATTS/split_loaf) ([Get it on the Microsoft Store](https://apps.microsoft.com/detail/9NFHJ4PTJXKV?hl=en-gb&gl=GB&ocid=pdpshare)) for Keyboard Rerouting to allow the mouse and keyboard to be used seperate from each other. 
+- A C++ Project called [The Bread Bin](https://www.github.com/the-bread-bin) for Application Routine Management on linux.
+- A C++ Project called [Split Loaf](https://github.com/AustinATTS/split_loaf) ([Get it on the Microsoft Store](https://apps.microsoft.com/detail/9NFHJ4PTJXKV?hl=en-gb&gl=GB&ocid=pdpshare)) for Keyboard Rerouting to allow the mouse and keyboard to be used seperate from each other. 
 
 My recent blog articles:
 
