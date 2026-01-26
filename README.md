@@ -13,9 +13,7 @@ I'm currently working on:
 
 My recent blog articles:
 
+- [Git Notes for When My Brain Forgets Git (Again)](https://www.austinatts.co.uk/blog/random-writings-4/git-notes-for-when-my-brain-forgets-git-again-18)
 - [Split Loaf](https://www.austinatts.co.uk/blog/projects-5/split-loaf-17)
 - [Setting Your Favicon Across All Odoo Apps](https://www.austinatts.co.uk/blog/odoo-customisations-7/setting-your-favicon-across-all-odoo-apps-9)
-- [How To Use Small Bit Of Toast On Windows Without WSL](https://www.austinatts.co.uk/blog/projects-5/how-to-use-small-bit-of-toast-on-windows-without-wsl-11)
-- [How To Modify The Small Bit Of Toast To Work In Any Project Folder](https://www.austinatts.co.uk/blog/projects-5/how-to-modify-the-small-bit-of-toast-to-work-in-any-project-folder-10)
-- [Small Bit Of Toast](https://www.austinatts.co.uk/blog/projects-5/small-bit-of-toast-6)
 - [The Alan MacMasters Hoax](https://www.austinatts.co.uk/blog/random-writings-4/alan-macmasters-1)
