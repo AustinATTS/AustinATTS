@@ -9,10 +9,11 @@
 I'm currently working on:
 
 - A C++ Project called [The Bread Bin](https://www.github.com/AustinATTS/the-bread-bin) for Application Routine Management on linux.
-- A C++ Project called [Split Loaf](https://github.com/AustinATTS/split_loaf) ([Get it on the Microsoft Store](https://apps.microsoft.com/detail/9NFHJ4PTJXKV?hl=en-gb&gl=GB&ocid=pdpshare)) for Keyboard Rerouting to allow the mouse and keyboard to be used seperate from each other. 
+- A C++ Project called [panimator](https://github.com/AustinATTS/panimator) for converting videos into ascii files and rendering them as circles on a web page.
 
 My recent blog articles:
 
+- [panimator](https://www.austinatts.co.uk/blog/projects-5/panimator-20)
 - [Git Notes for When My Brain Forgets Git (Again)](https://www.austinatts.co.uk/blog/random-writings-4/git-notes-for-when-my-brain-forgets-git-again-18)
 - [Split Loaf](https://www.austinatts.co.uk/blog/projects-5/split-loaf-17)
 - [Setting Your Favicon Across All Odoo Apps](https://www.austinatts.co.uk/blog/odoo-customisations-7/setting-your-favicon-across-all-odoo-apps-9)
