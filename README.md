@@ -2,9 +2,7 @@
 [![Email](https://img.shields.io/badge/email-admin%40toastysoftware.co.uk-EA4335.svg?style=flat-square&logo=minutemailer&logoColor=white&labelColor=3C3744)](mailto:admin@toastysoftware.co.uk)
 
 
-- Founder & Technical Director @ [Toasty Software](https://www.toastysoftware.co.uk)
-- First year Software Engineering student @ [Lancaster University](https://www.lancaster.ac.uk)
-- Official partner for [Odoo](https://www.odoo.com) focusing on SMEs in the restaurant and hospitality industry.
+Yes, I am that one British guy who likes bread. feel free to ask me about it.
 
 I'm currently working on:
 
