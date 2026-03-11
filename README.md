@@ -7,7 +7,7 @@ Yes, I am that one British guy who likes bread. feel free to ask me about it.
 I'm currently working on:
 
 - A C++ Project called [The Bread Bin](https://www.github.com/AustinATTS/the-bread-bin) for Application Routine Management on linux.
-- A C++ Project called [panimator](https://github.com/AustinATTS/panimator) for converting videos into ascii files and rendering them as circles on a web page.
+- A C++ Project called [bready](https://github.com/All-Things-Toasty-Software-Ltd/bready) for integrating Odoo ERP into Discord.
 
 My recent blog articles:
 
