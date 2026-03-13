@@ -4,4 +4,4 @@
 
 Yes, I am that one British guy who likes bread. feel free to ask me about it.
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=AustinATTS&theme=catppuccin-latte&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=AustinATTS&theme=catppuccin-latte&hide_border=true)](https://github.com/AustinATTS)
